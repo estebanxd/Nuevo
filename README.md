@@ -2,4 +2,4 @@ Projecto de prueba para aprender a manejar GIT
 <br />
 nuevo cambio prueba proyecto
 <br />
-<h2>Linea agregada por Ricardo</h2>
+<h2 style="color:darkred;font-weight:700">Linea agregada por Ricardo</h2>
